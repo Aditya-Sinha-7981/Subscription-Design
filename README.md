@@ -1,2 +1,2 @@
 # Subscription-Design
- A very basic and responsive music subscribtion design
+ A very basic and responsive music subscription design
